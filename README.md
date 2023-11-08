@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center" width="1rem">Hi, I am Ankur Das 😃</h1>
-  <h3 align="center" width="1rem">I'm a college student and I want to learn about programming</h3>
+  <p align="center" font-size=50px >I'm a college student and I want to learn about programming</p>
 </div>
 
 ## 🔗 My Profile Links:-
