@@ -7,9 +7,9 @@
 
 ## 🔗 My Profile Links:-
 
-<a href="https://www.linkedin.com/in/ankur-das-42471023b" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="" width="50px" align-items="center"></a>
-<a href="https://www.youtube.com/channel/UCxyD54EBTfdSpW318tlLcXg" target="blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/704/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="" width="50px" align-items="center"></a>
-<a href="https://www.hackerrank.com/ankurdas140905" target="blank"><img src="https://www.doit.com/wp-content/uploads/2023/06/1_jbcsrlrvfbdnbecw_ljf4g.png" alt="" width="100px" align-items="center"></a>
+<a href="https://www.linkedin.com/in/ankur-das-42471023b" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="" width="50px" align-items="center"></a>
+<a href="https://www.youtube.com/channel/UCxyD54EBTfdSpW318tlLcXg" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/704/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="" width="50px" align-items="center"></a>
+<a href="https://www.hackerrank.com/ankurdas140905" target="_blank"><img src="https://www.doit.com/wp-content/uploads/2023/06/1_jbcsrlrvfbdnbecw_ljf4g.png" alt="" width="100px" align-items="center"></a>
 
 ## 🛠 Skills
 
