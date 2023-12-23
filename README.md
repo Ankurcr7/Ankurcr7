@@ -13,4 +13,4 @@
 
 ## 🛠 Skills
 
-<p> Python, Mysql, C, C++, HTML, CSS, Javascript...</p>
+<p> Python, Mysql, C, C++, Java, HTML, CSS, Javascript...</p>
