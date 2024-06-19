@@ -1,7 +1,7 @@
 
 
 <div >
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B4aTMyemZsODlycmo3amZ3MWgwNXdwdWNuMGVwb3hmaW0xdHMzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp" alt="Typer" width="100%" height="600px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B4aTMyemZsODlycmo3amZ3MWgwNXdwdWNuMGVwb3hmaW0xdHMzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp" alt="Typer" width="100%" height="400px"/>
   <h1 align="center" width="1rem">Hi, I am Ankur Das 😃</h1>
   <p align="center" font-size=50px >I'm a college student and I want to learn about programming</p>
   
