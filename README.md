@@ -1,8 +1,10 @@
-![Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)
 
-<div>
+
+<div >
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B4aTMyemZsODlycmo3amZ3MWgwNXdwdWNuMGVwb3hmaW0xdHMzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp" alt="Typer" width="100%" height="600px"/>
   <h1 align="center" width="1rem">Hi, I am Ankur Das 😃</h1>
   <p align="center" font-size=50px >I'm a college student and I want to learn about programming</p>
+  
 </div>
 
 ## 🔗 My Profile Links:-
