@@ -84,7 +84,7 @@ Here are a few repositories I’m proud of:
 | **HackerRank** | Solutions to problems across difficulty levels |
 | **Coding-Raja Internship Tasks** | Python tasks from internship assignments |
 
-You can explore more in my [Repositories tab](https://github.com/Ankurcr7?tab=repositories).
+You can explore more in my <a href="https://github.com/Ankurcr7?tab=repositories" target="blank" > `Repositories tab` </a>
 
 ---
 
