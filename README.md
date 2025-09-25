@@ -80,7 +80,7 @@ Here are a few repositories I’m proud of:
 | Project | Description |
 |--------|--------------|
 | **Editor.md** | A JavaScript-based editor project |
-| **Snake-Game** | Classic Snake game built with Python |
+| **Library Management System** | A Library System made with Python |
 | **HackerRank** | Solutions to problems across difficulty levels |
 | **Coding-Raja Internship Tasks** | Python tasks from internship assignments |
 
